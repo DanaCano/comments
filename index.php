@@ -9,7 +9,7 @@ if(!empty($_POST["email"]) && !empty($_POST["commentaire"]))
     // Connection BDD
     $db = mysqli_connect("localhost","root","","commentaires");
 
-    //requete sql d'insertion dans la bdd
+    //requete sql d'insertion dans la bdd (aide à ajouter les commentaires écrits sur le site dans ma bdd)
     $sql = 'INSERT INTO commentaire(commentaire_email,commentaire_contenu, commentaire_objet) VALUES ("'.$emaildemonform.'","'.$commentdemonform.'","'.$objetdemonform.'")';
 
     //exécution de la requete sql d'insertion dans la bdd
@@ -29,7 +29,6 @@ else
         <meta charset="UTF-8">
         <title>Commentaires</title>
         <link rel="stylesheet" href="css/style.css" />
-        <script type="application/javascript" src="js/script.js"></script>
     </head>
     <body>
         <h1>Commentaires</h1>
