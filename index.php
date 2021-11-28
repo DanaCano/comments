@@ -29,7 +29,6 @@ else
         <meta charset="UTF-8">
         <title>Commentaires</title>
         <link rel="stylesheet" href="css/style.css" />
-        <script type="application/javascript" src="js/script.js"></script>
     </head>
     <body>
         <h1>Commentaires</h1>
