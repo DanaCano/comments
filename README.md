@@ -15,8 +15,8 @@
 <img width="955" alt="Capture d’écran MySQL  phpMyAdmin" src="https://user-images.githubusercontent.com/92331050/144262487-ce48a2b2-b0a5-4271-938d-fc6a9fd78fdf.png">
 
 >Nous devons créer notre base de données en lui donnant un nom:
-- Clicar en *Nouvelle base de données*
-- Saisissez un nom dans l'espace dédié, puis cliquez sur *Créer*
+- Cliquer sur *Nouvelle base de données*
+- Saisissez un nom dans l'espace dédié, puis cliquez sur *Créer* (dans mon cas, je l'ai nommé commentaires)
 <img width="757" alt="Capture d’écran 2021-12-01 à 16 35 16" src="https://user-images.githubusercontent.com/92331050/144264985-1af97364-461b-4613-9d9e-25aafdad72cb.png">
 
 
