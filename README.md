@@ -19,5 +19,13 @@
 - Saisissez un nom dans l'espace dédié, puis cliquez sur *Créer* (dans mon cas, je l'ai nommé commentaires)
 <img width="757" alt="Capture d’écran 2021-12-01 à 16 35 16" src="https://user-images.githubusercontent.com/92331050/144264985-1af97364-461b-4613-9d9e-25aafdad72cb.png">
 
+>Après avoir fait cela, vous devrez créer une liste de commentaires à l'intérieur.
+- Cliquez en haut de l'écran, là où il est indiqué *Base de données : commentaires*, comme le montre la capture d'écran ci-dessous.
+
+<img width="1395" alt="Capture d’écran 2021-12-01 à 16 55 17" src="https://user-images.githubusercontent.com/92331050/144269104-d1f15ba2-3e49-4eea-8e3d-20194675121e.png">
+
+- Ici, vous pouvez créer un tableau, ajouter un nom et le nombre de colonnes que vous souhaitez, puis cliquer sur Exécuter.
+
+<img width="705" alt="Capture d’écran 2021-12-01 à 17 05 12" src="https://user-images.githubusercontent.com/92331050/144270261-9a8c628b-296c-4cf1-8dbb-660eb4ba3531.png">
 
 
