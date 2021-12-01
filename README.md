@@ -49,7 +49,7 @@ https://cours.ebsi.umontreal.ca/sci6306/co/creation_bd.html
 *Back end*
 *Résultat*
 
-<img width="336" alt="Capture d’écran 2021-12-01 à 18 16 47" src="https://user-images.githubusercontent.com/92331050/144282586-4cda59f5-95f4-4510-946c-ceb2fbfb4fbb.png">
+<img width="1404" alt="Capture d’écran 2021-12-01 à 18 02 02" src="https://user-images.githubusercontent.com/92331050/144282775-93113f6a-5508-4791-aa87-adf8394d3379.png">
 
 
 - J'ai laissé quelques commentaires explicatifs et utiles dans mon code PHP et HTML dans ce repositorie comments.
