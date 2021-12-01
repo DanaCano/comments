@@ -32,4 +32,16 @@
 
 <img width="1418" alt="Capture d’écran 2021-12-01 à 17 12 15" src="https://user-images.githubusercontent.com/92331050/144272283-93e80a96-c1ea-4b62-a416-9b9ddf0367d3.png">
 
+*Pour voir les principaux éléments génériques à définir et plus d'info, je vous recommande de consulter cet article intéressant*
+~~~
+https://cours.ebsi.umontreal.ca/sci6306/co/creation_bd.html
+~~~
+
+>Dans mon cas, j'ai procédé de la manière suivante : (J'ai rempli les éléments essentiels dont j'avais besoin)
+
+<img width="1173" alt="Capture d’écran 2021-12-01 à 17 35 04" src="https://user-images.githubusercontent.com/92331050/144275255-65b28031-25b3-4edb-a453-a29f2325e2b6.png">
+
+
+
+
 
