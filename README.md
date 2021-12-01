@@ -41,7 +41,24 @@ https://cours.ebsi.umontreal.ca/sci6306/co/creation_bd.html
 
 <img width="1173" alt="Capture d’écran 2021-12-01 à 17 35 04" src="https://user-images.githubusercontent.com/92331050/144275255-65b28031-25b3-4edb-a453-a29f2325e2b6.png">
 
+> Une fois que nous avons terminé la table dans MySQL phpMyAdmin, nous allons sur PHPSTORM, pour créer notre code dans HTLM et PHP.
+> Pour faire la connexion entre notre code fait en PHPSTORM et notre base de données nous devons placer dans notre code en PHPSTORM
+~~~
+ $db = mysqli_connect("localhost","root","","commentaires");
+~~~
 
+<img width="1404" alt="Capture d’écran 2021-12-01 à 18 02 02" src="https://user-images.githubusercontent.com/92331050/144279613-9f719779-49d8-4a94-b337-eeeb8d190bce.png">
 
+- J'ai laissé quelques commentaires explicatifs et utiles dans mon code PHP et HTML dans ce repositorie comments.
+- Pour m'aider à réaliser ce projet en PHP, HTML et MySQL en utilisant PHPSTORM, j'ai consulté les documents suivants qui peuvent être d'une grande aide à un certain moment:
+~~~
+https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql
+~~~
 
+~~~
+https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914293-accedez-aux-donnees-en-php-avec-pdo
+~~~
 
+~~~
+https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php
+~~~
