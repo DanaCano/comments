@@ -28,4 +28,8 @@
 
 <img width="705" alt="Capture d’écran 2021-12-01 à 17 05 12" src="https://user-images.githubusercontent.com/92331050/144270261-9a8c628b-296c-4cf1-8dbb-660eb4ba3531.png">
 
+- Une fois ici, vous verrez les 4 colonnes qui ont été ajoutées à notre base de données pour pouvoir ajouter les commentaires et les paramétrer en fonction du type, de la taille, de la valeur, de l'interclassement, Interclassement, Attributs, Null Index, A I, etc.
+
+<img width="1418" alt="Capture d’écran 2021-12-01 à 17 12 15" src="https://user-images.githubusercontent.com/92331050/144272283-93e80a96-c1ea-4b62-a416-9b9ddf0367d3.png">
+
 
