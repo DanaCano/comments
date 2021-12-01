@@ -4,10 +4,10 @@
 
 *Ingrédients utilisés pour le gâteau:* (similaire comme nous l'avons vu dans mon précédent Readme de mon repositorie appelé CV)
 
--PHPSTORM
--XAMPP: MySQL(php MyAdmin), Apache web server, ProFTPD
--Code en PHP 
--Code en HTML
+- PHPSTORM
+- XAMPP: MySQL(php MyAdmin), Apache web server, ProFTPD
+- Code en PHP 
+- Code en HTML
 
 >Pour créer une page, afficher une liste de commentaires et répondre à cette liste en ajoutant nos propres commentaires,
 >il faut créer une table dans la base de données en mettant la liste de commentaires la liste des commentaires de manière organisée dans la base de données, c'est-à-dire dans MySQL depuis notre php MyAdmin.
