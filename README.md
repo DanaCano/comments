@@ -72,3 +72,7 @@ https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et
 ~~~
 https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php
 ~~~
+
+>_Je pense que cet article pourra être modifié car j'ajouterai des informations que j'aurais pu oublier de mentionner._
+
+>**_Merci beaucoup et à bientôt !_**
