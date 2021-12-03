@@ -46,7 +46,7 @@ https://cours.ebsi.umontreal.ca/sci6306/co/creation_bd.html
 ~~~
  $db = mysqli_connect("SERVEUR","UTILISATEUR","MOTDEPASSE","BDD");
 ~~~
-##Note importante:
+*Note importante:*
 N'oubliez pas de masquer les paramètres réels avant de les publier sur votre Github, les paramètres *("SERVEUR","UTILISATEUR","MOTDEPASSE","BDD")* sont sur une autre page non affichée sur le Github pour des raisons de sécurité.
 
 *Back end*
