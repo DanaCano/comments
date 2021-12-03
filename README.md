@@ -44,7 +44,7 @@ https://cours.ebsi.umontreal.ca/sci6306/co/creation_bd.html
 > Une fois que nous avons terminé la table dans MySQL phpMyAdmin, nous allons sur PHPSTORM, pour créer notre code dans HTLM et PHP.
 > Pour faire la connexion entre notre code php + html effectué sur PHPSTORM et notre base de données nous devons placer dans notre code en PHPSTORM:
 ~~~
- $db = mysqli_connect("localhost","root","","commentaires");
+ $db = mysqli_connect("SERVEUR","UTILISATEUR","MOTDEPASSE","BDD");
 ~~~
 *Back end*
 *Résultat*
