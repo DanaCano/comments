@@ -1,4 +1,7 @@
 <?php
+require 'parametres.php';
+
+
 //test si mon formulaire est bien renseigné
 if(!empty($_POST["email"]) && !empty($_POST["commentaire"]))
 {
@@ -7,7 +10,7 @@ if(!empty($_POST["email"]) && !empty($_POST["commentaire"]))
     $commentdemonform = $_POST["commentaire"];
     $objetdemonform = $_POST["objet"];
     // Connection BDD
-    $db = mysqli_connect("localhost","root","","commentaires");
+    $db = mysqli_connect(SERVEUR,UTILISATEUR,MOTDEPASSE,BDD);
 
     //requete sql d'insertion dans la bdd (aide à ajouter les commentaires écrits sur le site dans ma bdd)
     $sql = 'INSERT INTO commentaire(commentaire_email,commentaire_contenu, commentaire_objet) VALUES ("'.$emaildemonform.'","'.$commentdemonform.'","'.$objetdemonform.'")';
@@ -36,7 +39,7 @@ else
         <?php
 
         // Connection BDD
-        $db = mysqli_connect("localhost","root","","commentaires");
+        $db = mysqli_connect(SERVEUR,UTILISATEUR,MOTDEPASSE,BDD);
 
         // requete
         $sql = "select * from commentaire";
